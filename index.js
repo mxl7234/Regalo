@@ -2,6 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert ('FUAAA AMOOOR, ahora estamos casados, te amo muchooo <3')
+    alert ('Muajajaj Nuestra boda es mañana jijiji')
 });
 
 const noBtn = document.querySelector('#noBtn');
