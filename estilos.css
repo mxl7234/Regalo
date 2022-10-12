@@ -3,7 +3,7 @@
 }
 
 .contenedor {
-    background: rosybrown;
+    background-image:url('Amoor.png');
     width: 100vw;
     height: 100vh;
     text-align: center;
@@ -12,6 +12,8 @@
 p{
     font-size: xx-large;
     padding: 15%;
+    color: white;
+    
 }
 
 button{
@@ -26,3 +28,4 @@ button{
 #noBtn {
     position: absolute;
 }
+
