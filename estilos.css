@@ -3,7 +3,7 @@
 }
 
 .contenedor {
-    background-image:url('Amoor.png');
+    background-image:url('file:///E:/Regalo/Amoor.png');
     width: 100vw;
     height: 100vh;
     text-align: center;
